@@ -1,0 +1,25 @@
+_repo: Mokista-maantielle_73861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Viljasalo, Akseli
+    gutenberg_agent_id: '57253'
+    url: http://www.gutenberg.org/2009/agents/57253
+description: ''
+gutenberg_issued: '2024-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73861'
+language: fi
+pgterms:marc905: 20240603091547viljasalo
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mökistä maantielle
+url: http://www.gutenberg.org/ebooks/73861

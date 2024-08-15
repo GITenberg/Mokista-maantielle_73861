@@ -1,11 +1,16 @@
 _repo: Mokista-maantielle_73861
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Viljasalo, Akseli
     gutenberg_agent_id: '57253'
     url: http://www.gutenberg.org/2009/agents/57253
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73861#Mokista-maantielle
 gutenberg_issued: '2024-06-18'
 gutenberg_type: Text
 identifiers:
